@@ -1,4 +1,4 @@
-# ADDITION 
+# ADDITION IN C
 a+b=c
 #include<stdio.h>
 int main()
